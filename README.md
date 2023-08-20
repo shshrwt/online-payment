@@ -1,5 +1,5 @@
 # online-payment
-online payment spring cloud services 
+online payment spring cloud services - Just highlevel demo project.
 
 
 **User service port:** 9001<br/>
